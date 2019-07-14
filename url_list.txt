@@ -1,0 +1,2 @@
+http://example.com/hoge
+http://example.com/hoge2/top.html
